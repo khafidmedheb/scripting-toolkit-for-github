@@ -1,0 +1,27 @@
+{
+  "git": {
+    "repo_name": "auto-commit-push",
+    "username": "khafidmedheb",
+    "remote_url": "git@github.com:khafidmedheb/auto-commit-push.git",
+    "branch": "main",
+    "ssh_key_path": null,
+    "use_ssh": true
+  },
+  "ai": {},
+  "log_level": "INFO",
+  "dry_run": false,
+  "interactive": true,
+  "auto_install_deps": true,
+  "max_commit_length": 50,
+  "project_type": "nodejs",
+  "quality_checks": {
+    "enabled": true,
+    "eslint": true,
+    "prettier": true,
+    "typescript": true,
+    "cypress": true,
+    "playwright": true,
+    "auto_fix": true,
+    "strict_mode": false
+  }
+}
